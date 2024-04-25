@@ -3,5 +3,4 @@ numpy
 scikit-learn
 loguru
 pandas
-zipfile
 pickle
