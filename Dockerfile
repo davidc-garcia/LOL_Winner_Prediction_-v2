@@ -15,4 +15,4 @@ RUN apt-get update && apt-get install -y git
 RUN git clone https://github.com/davidc-garcia/LOL_Winner_Prediction_-v2.git
 
 # Copia la carpeta "fase-2" del repositorio clonado al directorio de trabajo del contenedor
-COPY LOL_Winner_Prediction_-v2/fase-2 /app
+COPY /fase-2 /app
