@@ -1,5 +1,0 @@
-argparse
-numpy
-scikit-learn
-loguru
-pandas
